@@ -3,6 +3,8 @@
 
 using namespace std;
 
+#define _CRT_SECURE_NO_WARNINGS
+
 class Test {
 public:
 	char* name;
